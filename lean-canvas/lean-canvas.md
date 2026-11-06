@@ -1,5 +1,7 @@
 # Lean Canvas
 
+Milestone 1 toward the [mission](../mission.md).
+
 One-page summary; deep research lives in each section's file.
 Every entry starts as a guess. Test the riskiest one first, then update.
 
@@ -32,8 +34,16 @@ The few numbers that show the business is working.
 ## [Unique Value Proposition](unique-value-proposition.md) (3)
 One clear, compelling message: why you are different and worth buying.
 
+**Synthesis routes that work in the lab on the first try.**
+
+- Know if a reaction will work before you run it.
+- Know if a synthesis route exists for a given molecule.
+- Make molecules no one has made before, using newly explored chemistry.
+
 ### High-Level Concept
 X for Y analogy (e.g., "YouTube = Flickr for video").
+
+The most accurate simulator of chemical reactions.
 
 ## [Unfair Advantage](unfair-advantage.md) (9)
 Something that can't easily be copied or bought.
@@ -42,6 +52,11 @@ Something that can't easily be copied or bought.
 
 ## [Channels](channels.md) (5)
 Path to customers.
+
+- **Now: direct, founder-led sales** to early adopters (pharma HTE groups, agrochemical majors). Run paid pilots on their own reactions.
+- **Papers and public benchmarks**: prove the "most accurate" claim in the open; the founder's research reputation brings inbound interest.
+- **Network**: Microsoft Research, University of Amsterdam, investors' portfolio companies.
+- **Later: partnerships** with CROs (e.g., WuXi, Enamine) and HTE hardware makers (e.g., Unchained Labs, Mettler-Toledo), plus a free web demo for chemists.
 
 ## [Customer Segments](customer-segments.md) (1)
 Target customers and users.
