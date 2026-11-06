@@ -56,7 +56,7 @@ Several items rely on press releases or secondary sources, so verify them before
 | [Genesis Molecular AI](https://sacra.com/c/genesis-therapeutics/) | Drugs | Co-folding models | ~$327M total |
 | [Emerald Cloud Lab](https://bioai-agents.com/en/compare/emerald-cloud-lab-vs-strateos/) | Cloud lab | Remote robotic lab execution | $56M total |
 
-Not yet verified: PostEra, Iktos, Molecule.one (retrosynthesis, thinly funded), Synthia (owned by Merck KGaA).
+Not yet verified: PostEra, Iktos, Synthia (owned by Merck KGaA). **Molecule.one** trains on proprietary HTE (>300k micro-scale experiments): the closest competitor to our data approach (see [existing-alternatives.md](existing-alternatives.md)).
 
 ### White space (inference)
 - **Funded**: simulation for materials and drugs (Achira, Orbital, CuspAI, Periodic) and synthesis hardware (Chemify, Excelsior).
