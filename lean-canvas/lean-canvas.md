@@ -76,3 +76,8 @@ Fixed and variable costs.
 
 ## [Revenue Streams](revenue-streams.md) (6)
 How the company makes money.
+
+1. **Paid pilots** on customers' own reactions (price to be tested in customer calls).
+2. **Enterprise license** after a successful pilot (annual; Schrödinger is the template).
+3. **Outcome-based pricing**: pay per validated route that works in the lab.
+4. **Later, upside**: partnerships with upfront fee, milestones and royalties.
